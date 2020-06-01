@@ -1,7 +1,7 @@
  {
     "name": "Rita's touch",
     "version": "1.0",
-    "description": "Build an Extension!",
+    "description": "How it feels after it was touched by Rita",
     "manifest_version": 2, 
 	"content_scripts": [
 	   {
