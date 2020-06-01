@@ -45,6 +45,7 @@ $(function() {
 });
 
 
+//credits to https://codemyui.com/sparkle-effect-using-jquery-and-canvas/ and https://codepen.io/simeydotme/pen/jgcvi
 $.fn.sparkleh = function( options ) {
     
   return this.each( function(k,v) {
